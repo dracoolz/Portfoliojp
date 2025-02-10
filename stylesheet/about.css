@@ -385,6 +385,10 @@ img {
 }
 
 /* ===page-4=== */
+.page-4 {
+  margin-bottom: 100px;
+}
+
 .page-4 .header {
   display: flex;
   justify-content: flex-start;
